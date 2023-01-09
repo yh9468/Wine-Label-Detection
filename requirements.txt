@@ -1,0 +1,13 @@
+imutils
+numpy
+opencv_python
+Pillow
+pytesseract
+scikit_learn
+scipy
+tqdm
+torch
+torchsummary
+segmentation_models_pytorch
+albumentations
+torchvision

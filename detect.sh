@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python detect.py --weight ./Unet-Mobilenet.pt --input ./img/train_and_valid/X/134.jpg
